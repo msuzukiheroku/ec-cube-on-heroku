@@ -1,4 +1,4 @@
-# EC-CUBE 3.x on Heroku
+# EC-CUBE 3.x on Heroku by masamis
 
 Heroku上で稼働させるためにカスタマイズしたEC-Cubeです。バージョンは 3.0.16 を使っております。
 
