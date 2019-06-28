@@ -6,12 +6,12 @@
     "keywords": ["php", "ec", "e-commerce", "ec-cube"],
     "addons": [
         {
-            "plan": "heroku-postgresql",
+            "plan": "heroku-postgresql:private-0",
             "options": {
                 "version": "9.6"
             }
         },{
-            "plan": "heroku-redis"
+            "plan": "heroku-redis:private-7"
         }
     ],
     "env": {
